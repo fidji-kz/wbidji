@@ -1,0 +1,103 @@
+body{
+  font-family:arial;
+  background-color:#fff;
+}
+
+
+header{
+  background-color:black;
+  text-align:center;
+  font-size:2vw;
+  margin:20px;
+  padding:30px;
+  border-radius:20px;
+}
+
+img{
+  width:100%;
+}
+
+div.aaa{
+  width:500px;
+  margin:20px;
+  padding:10px;
+  vertical-align:top;
+}
+
+div.bbb{
+  width:500px;
+  margin:20px;
+  padding:10px;
+}
+
+section{
+  border:2px solid black;
+  border-radius:20px;
+  background-color:white;
+  width:90%;
+}
+
+section h1{
+  color:black;
+  font-size:50px;
+  margin:10px;
+  padding:30px;
+  border-radius:20px 20px 0px 0px;
+}
+
+section p{
+  font-size:25px;
+  margin:10px;
+  padding:10px;
+}
+
+section div{
+  display:inline-block;
+}
+
+h1{
+  color:#f2e749;
+  margin:20px 20px 0px 20px;
+  padding:30px;
+  border-radius:20px 20px 0px 0px;
+}
+
+main{
+  text-align:left;
+  margin:0px 20px 0px 20px;
+  padding:10px;
+  background-color:#f2e749;
+  display: flex;
+  justify-content:space-around;
+  flex-wrap:wrap;
+  border-radius:20px;
+}
+
+h2{
+  font-size:20px;
+  color:#1F3F06;
+  margin:10px;
+  padding:10px;
+}
+
+p{
+  font-size:15px;
+  margin:10px;
+  padding:10px;
+}
+
+i{
+  font-size:15px;
+  margin:10px;
+  padding:10px;
+}
+
+arcticle{
+  background-color:white;
+  margin:10px;
+  padding:10px;
+  border:2px solid black;
+  border-radius:20px;
+  width:300px;
+}
+
